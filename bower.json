@@ -1,0 +1,13 @@
+{
+  "name": "knockout-integer",
+  "version": "1.0.0",
+  "main": "knockout-integer.js",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "knockout.js": "~3.0.0",
+    "accounting": "~0.3.2"
+  }
+}
