@@ -1,4 +1,4 @@
-# Knockout Moment Component
+# Knockout Integer Extender
 
 > A simple knockout extender that coerces values to integers.
 
