@@ -1,7 +1,7 @@
 {
   "name": "knockout-integer",
-  "version": "1.0.1",
-  "main": "knockout-integer.js",
+  "version": "1.0.2",
+  "main": "knockout.integer.js",
   "ignore": [
     "node_modules",
     "bower_components"
