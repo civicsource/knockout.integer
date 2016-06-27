@@ -1,0 +1,30 @@
+{
+  "name": "knockout.integer",
+  "version": "2.0.0",
+  "description": "A simple knockout extender which coerces values to integers",
+  "main": "knockout.integer.js",
+  "scripts": {
+    "lint": "eslint . --format=unix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civicsource/knockout.integer.git"
+  },
+  "author": "CivicSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civicsource/knockout.integer/issues"
+  },
+  "homepage": "https://github.com/civicsource/knockout.integer#readme",
+  "devDependencies": {
+    "babel-eslint": "6.x",
+    "eslint": "2.x",
+    "eslint-plugin-filenames": "1.x"
+  },
+  "peerDependencies": {
+    "knockout": "3.x"
+  },
+  "dependencies": {
+    "accounting": "0.x"
+  }
+}
