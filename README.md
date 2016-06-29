@@ -1,18 +1,18 @@
 # Knockout Integer Extender
 
-> A simple knockout extender that coerces values to integers.
+> A simple knockout extender which coerces values to integers.
 
-## Install with [Bower](http://bower.io/)
+## Installation
 
 ```
-bower install knockout-integer
+npm install knockout-integer
 ```
 
 Then add `knockout-integer.js` to your project.
 
-## How to Use
+## Usage
 
-Include the script on your page (either via a normal script tag or via an AMD loader). Then use it like so:
+`require` the script in your bundle. Then:
 
 ```js
 var myNumber = ko.observable().extend({integer: 0 /* optional default value if it cannot be coerced to integer */});
